@@ -1,0 +1,77 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+
+}
+div{
+    margin-top: 50px;
+
+}
+.meo1 {
+    position: relative;
+    /*width: 100%;*/
+    display: flex;
+    max-width:250px;
+/*background-color: #b3b3b3;*/
+    /*left: 10%;*/
+}
+.meo1 p{
+    max-height: 25px;
+    margin: 50px 0;
+}
+.meo1 div{
+    /*border: 1px solid black;*/
+
+    margin: 0 25px;
+
+    /* 3gti: gtri1: top gtri 2: left right gtri 3: bottom*/
+    /*thứ tụ : top;left;bottom;right. /nếu 2 giá trị thì: top;bottom*/
+}
+.meo2{
+    position: relative;
+    /*width: 100%;*/
+    display: flex;
+    max-width:250px;
+
+    /*left: 10%;*/
+
+}
+.meo2 div{
+    margin: 0 25px;
+}
+
+.meo3{
+     position: relative;
+     /*width: 100%;*/
+     display: flex;
+     max-width:250px;
+
+     /*left: 10%;*/
+
+ }
+.meo3 div{
+    margin: 0 25px;
+}
+h2{
+    color: red;
+    /*font-size: 25px;*/
+}
+.meo4{
+    /*position: relative;*/
+    /*width: 100%;*/
+    display: flex;
+    max-width:250px;
+
+    /*left: 10%;*/
+
+}
+.meo4 div{
+    margin: 0 25px;
+}
+.meo4 p{
+    max-height: 25px;
+    margin: 50px 0;
+}
+
+
+
