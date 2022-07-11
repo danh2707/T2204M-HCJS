@@ -1,0 +1,60 @@
+.a{
+    display: flex;
+    margin-bottom: 30px;
+
+}
+.b{
+    margin-right: 30px;
+
+}
+.d{
+    display: flex;
+
+}
+.e{
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+
+}
+.f{
+    display: flex;
+    flex-direction: column;
+}
+
+.c{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.c   input{
+    width:30%;
+    margin-bottom: 30px;
+    background-color: #b3b3b3;
+}
+.g{
+    max-width: 1200px;
+    margin: 50px 30px 20px 25%;
+}
+.h input{
+    width: 30%;
+    margin-bottom: 30px;
+    background-color: #b3b3b3;
+}
+.i input{
+    width: 30%;
+    margin-bottom: 30px;
+    background-color: #b3b3b3;
+}
+.l{
+    margin-bottom: 30px;
+}
+.k{
+    height: 30px;
+    margin-bottom: 10px;
+}
+.b input{
+    background-color: #b3b3b3;
+}
+.k input{
+    background-color: #b3b3b3;
+}
